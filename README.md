@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Twilliams073/ISOProj6/blob/main/Screen-Recording-2023-03-16-at-12.56.14-PM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Twilliams073/ISOProj6/blob/main/Screen-Recording-2023-03-22-at-4.26.19-PM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Convertio
